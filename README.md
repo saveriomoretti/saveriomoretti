@@ -1,6 +1,6 @@
 # Saverio Moretti
 
-E-commerce developer: API integrations and automation · Arezzo, Italy
+E-commerce developer · API integrations and automation with AI · Arezzo, Italy
 
 Portfolio (in Italian), with the work explained through diagrams and numbers and the multimeter to try:
 https://saverio-moretti-dev.github.io
