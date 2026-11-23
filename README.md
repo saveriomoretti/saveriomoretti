@@ -5,10 +5,9 @@ E-commerce developer · API integrations and automation with AI · Arezzo, Italy
 Portfolio (in Italian), with the work explained through diagrams and numbers and the multimeter to try:
 https://saverio-moretti-dev.github.io
 
-Since 2025 I have been building and maintaining the PrestaShop back office and the integrations of an online store
-selling new and refurbished IT hardware. As the catalog grew from about 10,000 to over 120,000 products, I built the
-tools it was missing: about 20 PrestaShop 8.1 modules, 7 third-party modules fixed and secured, a CSV import that can
-be rolled back, Amazon SP-API on 12 marketplaces from the back office, and a bridge to a management system that has no API.
+I have worked in companies building the tools an e-commerce back office was missing: about 20 PrestaShop 8.1 modules,
+7 third-party modules fixed and secured, a CSV import that can be rolled back, Amazon SP-API offer management from the
+back office, and a bridge to a management system that has no API.
 
 How I work: Claude Code writes most of the code; I design the logic and the flows, and I verify the result.
 The code I write at work belongs to the company and is not here.
@@ -22,8 +21,6 @@ The code I write at work belongs to the company and is not here.
 - [multimeter](https://github.com/saverio-moretti-dev/multimeter) ([try it](https://saverio-moretti-dev.github.io/multimeter/)):
   audio analyzer in a single HTML file that measures an audio file in real time with four modules (levels and LUFS
   loudness, spectrum, stereo field, 3D spectrogram) and exports the visualizers as video
-- [reversibleimport](https://github.com/saverio-moretti-dev/reversibleimport): PrestaShop 8.1 module, CSV import of
-  prices and quantities with preview and undo; reduced public version of my work import, tested on PrestaShop 8.1.7
 - [guardaroba](https://github.com/saverio-moretti-dev/guardaroba): installable web app to prepare and manage second-hand
   sales as a pair: photos in the cloud, AI-written texts, works offline
 - **Audio plugins in C++**: a suite of dynamics processors in development; 20 finished utility plugins, 14 dynamics
